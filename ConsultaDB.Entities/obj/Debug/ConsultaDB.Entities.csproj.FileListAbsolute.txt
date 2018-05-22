@@ -1,0 +1,12 @@
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaDB.Entities\bin\Debug\ConsultaDB.Entities.dll
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaDB.Entities\bin\Debug\ConsultaDB.Entities.pdb
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaDB.Entities\obj\Debug\ConsultaDB.Entities.csprojResolveAssemblyReference.cache
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaDB.Entities\obj\Debug\ConsultaDB.Entities.csproj.CoreCompileInputs.cache
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaDB.Entities\obj\Debug\ConsultaDB.Entities.dll
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaDB.Entities\obj\Debug\ConsultaDB.Entities.pdb
+C:\Users\miguel.puertas.ales\source\repos\WebApiSQL\ConsultaDB.Entities\bin\Debug\ConsultaDB.Entities.dll
+C:\Users\miguel.puertas.ales\source\repos\WebApiSQL\ConsultaDB.Entities\bin\Debug\ConsultaDB.Entities.pdb
+C:\Users\miguel.puertas.ales\source\repos\WebApiSQL\ConsultaDB.Entities\obj\Debug\ConsultaDB.Entities.csprojResolveAssemblyReference.cache
+C:\Users\miguel.puertas.ales\source\repos\WebApiSQL\ConsultaDB.Entities\obj\Debug\ConsultaDB.Entities.csproj.CoreCompileInputs.cache
+C:\Users\miguel.puertas.ales\source\repos\WebApiSQL\ConsultaDB.Entities\obj\Debug\ConsultaDB.Entities.dll
+C:\Users\miguel.puertas.ales\source\repos\WebApiSQL\ConsultaDB.Entities\obj\Debug\ConsultaDB.Entities.pdb

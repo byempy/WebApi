@@ -1,0 +1,13 @@
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaBD.BL\bin\Debug\ConsultaBD.BL.dll
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaBD.BL\bin\Debug\ConsultaBD.BL.pdb
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaBD.BL\bin\Debug\ConsultaDB.Entities.dll
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaBD.BL\bin\Debug\ConsultaDB.Interfaces.dll
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaBD.BL\bin\Debug\ConsultaDB.SQL.dll
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaBD.BL\bin\Debug\ConsultaDB.Entities.pdb
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaBD.BL\bin\Debug\ConsultaDB.Interfaces.pdb
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaBD.BL\bin\Debug\ConsultaDB.SQL.pdb
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaBD.BL\obj\Debug\ConsultaBD.BL.csprojResolveAssemblyReference.cache
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaBD.BL\obj\Debug\ConsultaBD.BL.csproj.CoreCompileInputs.cache
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaBD.BL\obj\Debug\ConsultaBD.BL.csproj.CopyComplete
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaBD.BL\obj\Debug\ConsultaBD.BL.dll
+C:\Users\miguel.puertas.ales\source\repos\ConsultaBaseDatos\ConsultaBD.BL\obj\Debug\ConsultaBD.BL.pdb
